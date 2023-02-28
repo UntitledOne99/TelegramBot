@@ -1,1 +1,0 @@
-city = None
