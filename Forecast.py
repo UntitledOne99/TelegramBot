@@ -24,5 +24,5 @@ def weather():
         message = f'The weather for today is:\n{status}\n   {temperature} {hot} \n{test.city}'
     else:
         message = f'The weather for today is:\n{status}\n   {temperature} {cloud} \n{test.city}'
-    test.city = 'Mins'
+    test.city = 'Minsk'
     return message
